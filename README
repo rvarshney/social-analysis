@@ -1,0 +1,11 @@
+One may wonder as to why the modeling of social influence is important. If you were a marketeer and were given $1,000,000 to spend on a marketing campaign, what would you do? Would you pay a $1,000,000 for a TV ad slot that shows your product once, or would you pay $1 to 1,000,000 seed users on Twitter to spread the word? Would you pay one strong influencer because he/she has a lot of followers? Or would you try to find a number of relatively good seed influencers to potentially get more retweet cascades?
+
+Influence models can help understand retweet cascade patterns and develop optimization functions around ensuring that marketers get more bang for the buck. Brand campaigns are inevitably looking to maximize their ROI. In fact, in today's world the value of people talking about your product is sometimes higher than the money you would get for it.
+
+The following implementation (Using Twitter Python APIs) determines a social influence score (similar to perception of Klout) for a subset of high profile Twitter users by using
+Maven score based on the percentage of self-authored tweets that get retweeted
+Number of direct followers
+Number of times listed
+Average number of second-level followers
+Other factors....
+
